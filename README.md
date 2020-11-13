@@ -1,5 +1,5 @@
 # Todo_App
-https://from-carpenters.github.io/ToDo_App/
+<a href="https://from-carpenters.github.io/ToDo_App/">Todo App</a> <br />
 A todo app covering react basics such as
 <br/>
 - Fundemenal of components <br/>
